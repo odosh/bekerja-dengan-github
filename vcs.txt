@@ -1,0 +1,6 @@
+Aplikasi VCS
+VCS adalah aplikasi bantu dalam mengelola / memanage sistem version lebih tepatnya tools Version Control System
+VCS bekerja dengan membuat snapshot / merekam setiap perubahan baik source code bagi programer.
+Dengan VCS dapat melakukan pekerjaan secara kolaborasi dengan lebih baik.
+Dengan VCS memungkinkan untuk kembali ke keadaan sebelum perubahan disebut Checkout.
+Ada 2 metode vcs bekerja, 1. menggunakan layanan cloud (GitHub, dan sejenisnya). 2. Git dalam hal ini diinstal disisi komputer.
