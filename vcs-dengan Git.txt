@@ -2,3 +2,4 @@ Version Control System Git
 1. Sistem yang menyimpan & mengelola rekaman perubahan dari source code
 2. GIT, Salah satu software yang bisa melakukan VCS
 3. GitHUB, website / layanan cloud untuk mengelola project Git.
+4. Selain GitHub berbasis cloud, GitLab dan lainnya.
